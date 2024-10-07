@@ -1,0 +1,2 @@
+#programa que imprime un mensaje"hola mundo"
+print("hola mundo")
